@@ -1,0 +1,23 @@
+#rigt-colom{
+    
+
+    float: right;}
+#img2 {
+    padding-left: 150px;
+    padding-top: 20px;
+    float: left;
+    padding-right: 20px;}
+
+
+P{
+    font-size: 20px;
+   padding-top: 20px;
+    }
+
+    .site-footer {
+        background:grey;
+      }
+      
+      #footer-content {
+        background: grey;
+      }
